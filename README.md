@@ -2,5 +2,5 @@
 
 ## Socials
 
-- [Instagram](www.instagram.com)
+- [Instagram](https://www.github.com/Supragy352/mishra_bot)
 - Twitter
